@@ -1,0 +1,22 @@
+{
+  "name": "spotter-socket-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Events.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelsnow3/spotter-socket-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelsnow3/spotter-socket-server/issues"
+  },
+  "homepage": "https://github.com/michaelsnow3/spotter-socket-server#readme",
+  "dependencies": {
+    "socket.io": "^2.2.0"
+  }
+}
